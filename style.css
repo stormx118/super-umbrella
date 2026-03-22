@@ -54,11 +54,14 @@
     align-items: center;
     gap: 12px;
     }
-  h1{
+  a{
     font-weight: 800;
     font-size: 24px;
   }
-  h1:hover{
+  a:hover{
+    color:hsl(47, 88%, 63%) ;
+  }
+  a:focus{
     color:hsl(47, 88%, 63%) ;
   }
   .author{
